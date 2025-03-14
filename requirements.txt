@@ -1,5 +1,5 @@
 
 matplotlib==3.5.3
-pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
+pandas==1.5.3
 seaborn==0.13.2
 streamlit==1.36.0
